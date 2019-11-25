@@ -14,7 +14,7 @@ nav {
     flex-direction:row;
     align-items: center;
     background-color: #4d4d4d;
-	float:right;
+	float:initial;
 	border-radius: 10px;
 }
 
